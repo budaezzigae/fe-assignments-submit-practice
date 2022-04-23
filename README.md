@@ -8,7 +8,7 @@
 
 ## 1. 포크 (Fork)
 
-지금 보고 계시는 `fe-assignments-submit-practice` 라는 저장소는 `Likelion-Inha-10` 라는 Github 조직(Organization) 에 소속된 저장소가 아니에요. Fork를 사용하면 지금 보고 있는 저장소를 내 계정으로 **복사** 할 수 있어요.
+지금 보고 계시는 `fe-assignments-submit-practice` 라는 저장소는 `Likelion-Inha-10` 라는 Github 조직(Organization) 에 소속된 저장소입니다. Fork를 사용하면 지금 보고 있는 저장소를 내 계정으로 **복사** 할 수 있어요.
 
 ![](./images/1.png)
 
